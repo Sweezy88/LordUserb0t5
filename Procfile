@@ -1,1 +1,1 @@
-worker : npm i ffmpeg && npm i @adiwajshing/baileys@latest && npm start
+worker : npm i -g npm@8.3.2 && npm install && npm start
